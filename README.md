@@ -17,8 +17,7 @@ I'm a **Flutter Mobile Application Developer** dedicated to building high-qualit
 | :--- | :--- |
 | **Frontend & Frameworks** | `Flutter` `Dart` `Responsive Design` `Figma to Code` |
 | **State Management & Arch** | `Riverpod` `MVVM` `Clean Architecture Principles` `Feature-Based Architecture` |
-| **Backend & Integration** | `REST APIs (Dio)` `Firebase` `Payment Gateways` `OTP Services` `Postman` `Firebase`|
-| **Storage & DevOps** | `Shared Preferences` `Git & GitHub` `OOP Principles` |
+| **Backend & Integration** | `REST APIs (Dio)` `Firebase` `Payment Gateways` `OTP Services` `Postman`|
 
 ---
 
