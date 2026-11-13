@@ -1,102 +1,66 @@
-# Hi there, I'm Nasser Salem Al-Mashgari 👋
+# Hi, I'm Nasser Al-Mashgari 👋
 
-### Flutter Developer | Mobile Software Engineer
+### Flutter Developer | Mobile Software Engineer · Riyadh, Saudi Arabia
 
-I'm a **Flutter Mobile Application Developer** with hands-on experience building, maintaining, and improving real-world mobile applications, particularly in the **automotive and e-commerce industries**.
+I'm a Flutter developer focused on building mobile applications for the automotive and e-commerce industries. I took over and extended **Mawjood**, a live automotive services platform connecting customers with workshops, and I'm currently building **Qitai**, a spare-parts e-commerce app where users find products that fit their vehicles, as the sole Flutter developer.
 
-I focus on delivering reliable, scalable, and maintainable applications through **Clean Architecture, effective state management, REST API integrations, and automated testing**.
-
-My experience includes developing applications from scratch, modernizing existing codebases, implementing authentication and payment integrations, and translating Figma designs into responsive, production-ready Flutter interfaces.
-
-I'm continuously expanding my knowledge of **Software Engineering, Backend Development, and Applied AI**.
+I care most about the challenges that come with real-world apps: async race conditions, pagination, authentication flows, and Arabic/RTL layouts that actually hold up. I'm also expanding my skills in backend development (Python, FastAPI, PostgreSQL) to better understand the entire system, from the user interface to the database.
 
 ---
 
-### 🚀 What I Do Best
-
-- **Software Architecture:** Applying Clean Architecture, MVVM, and Feature-Based structures to build maintainable applications.
-- **State Management:** Managing complex application state using Riverpod, including asynchronous operations, pagination, and lifecycle management.
-- **API & Service Integration:** Integrating REST APIs, authentication systems, payment gateways, and Firebase services.
-- **Code Quality & Testing:** Refactoring legacy code, writing automated tests, and handling race conditions.
-- **UI/UX Implementation:** Converting Figma designs into responsive, RTL-compatible Flutter applications.
-
----
-
-### 🛠️ Technical Toolbox
+### 🛠️ Tech Stack
 
 | Category | Technologies & Tools |
 |---|---|
-| **Mobile Development** | `Flutter` `Dart` `Responsive Design` `RTL Support` `Figma to Flutter` |
-| **State Management & Architecture** | `Riverpod` `MVVM` `Clean Architecture` `Feature-Based Architecture` |
-| **Backend & Integrations** | `REST APIs` `Dio` `Firebase` `Payment Gateways` `OTP Authentication` `Postman` |
-| **Testing & Development** | `Git` `GitHub` `GitHub Actions (CI/CD)` `Unit Testing` `Widget Testing` |
-| **Currently Learning** | `Python` `FastAPI` `PostgreSQL` `Backend Development` `Applied AI` |
+| **Mobile** | `Flutter` `Dart` `Riverpod` `Figma to Flutter` `RTL / Arabic UI` `Localization` `Dark mode` |
+| **Architecture** | `Clean Architecture` `MVVM` `Feature-first structure` |
+| **Integrations** | `REST APIs` `Dio` `Firebase` `Payment gateways` `OTP authentication` `Postman` |
+| **Quality & Tools** | `Unit testing` `Widget testing` `Git` `GitHub Actions (CI/CD)` |
+| **Currently Learning** | `Python` `FastAPI` `PostgreSQL` `LLM integrations` |
 
 ---
 
-### 💼 Professional Experience
+### 💼 Experience
 
-**🚗 Mawjood (موجود) — Automotive Services Platform**
+**🛒 Qitai (قطعي) — Automotive Spare Parts E-Commerce**  
+*Flutter Developer · Remote · Feb 2026 – Present*
 
-*Flutter Developer*
+- Building the app from the ground up as the sole Flutter developer, turning Figma designs into responsive, RTL-ready interfaces.
+- Architected the codebase with Feature-First Clean Architecture, Riverpod, and code generation.
+- Implemented vehicle-based product filtering so users only see parts that fit their car.
+- Built product search with pagination, OTP authentication, and local cart persistence using SharedPreferences.
+- Wrote automated tests to catch async race conditions, including stale search responses overwriting newer results.
+- Set up a CI/CD pipeline to automate build and deployment workflows.
+- Next: payment gateway, push notifications, and Google Maps.
 
-- Developed and maintained Flutter applications supporting automotive service operations.
-- Implemented OTP authentication flows, REST API integrations, and application state management.
-- Worked on workshop management workflows, appointments, spare-part requests, and job orders.
-- Refactored existing features to improve maintainability, code organization, and application usability.
-- Integrated payment-related functionality and improved existing UI/UX components.
+**🚗 Mawjood (موجود) — Automotive Services Platform**  
+*Flutter Developer · Remote · Dec 2025 – Sep 2026 · Private codebase*
 
-**🛒 Qitai (قطعي) — Automotive Spare Parts E-Commerce**
-
-*Flutter Developer*
-
-- Building an automotive e-commerce application using Flutter, Riverpod, and Clean Architecture.
-- Implemented vehicle-based product filtering, product search, pagination, and authentication flows.
-- Developed local cart persistence using SharedPreferences.
-- Wrote automated tests to validate application behavior and prevent asynchronous race conditions.
-- Built reusable, responsive RTL interfaces following Figma designs.
-
----
-
-### 📌 Featured Projects
-
-**🚗 [Qitai — Automotive Spare Parts E-Commerce](https://github.com/Nassertion/qitai)**
-
-A Flutter-based automotive e-commerce application designed around maintainable architecture, reliable state management, and modern mobile development practices.
-
-**Key Technologies:** Flutter, Dart, Riverpod, Dio, Clean Architecture, SharedPreferences, Automated Testing.
-
-**Highlights:**
-- Feature-first architecture
-- Vehicle-based product discovery
-- Product search and pagination
-- OTP authentication
-- Local cart management
-- Automated testing
-
-*More projects and technical experiments will be featured here.*
+- Took ownership of a live production app (App & Web) from a previous developer, extending it without disrupting active users.
+- Rebuilt authentication end-to-end, replacing username/password with phone number + OTP verification.
+- Redesigned the home screen and visual design system; added Arabic/English localization and full dark mode.
+- Built a spare-parts ordering flow from scratch: pricing, invoice generation, and cart management.
+- Developed an "Order Job" feature for the admin panel, connecting workshop, customer, and admin workflows.
+- Added pagination, refined payment status handling, and fixed recurring UI/layout bugs to improve stability.
 
 ---
 
-### 📈 Soft Skills & Core Competencies
+### 📌 Featured Project
 
-- Task Prioritization & Attention to Detail
-- Analytical Thinking & Problem Solving
-- Effective Communication & Teamwork
-- Continuous Learning & Adaptability
-- Leadership — Served as University Class Representative
+**🛒 [Qitai — Automotive Spare Parts E-Commerce](https://github.com/Nassertion/qitai)**
+
+A Flutter-based automotive e-commerce application built with **Riverpod, Dio, Clean Architecture, and a feature-first structure**.
+
+Includes tests for async race conditions in search and pagination.
+
+*More projects coming as I expand into backend development and applied AI.*
 
 ---
 
-### 🎯 Currently Exploring
+### 🎓 Education & Leadership
 
-I'm broadening my expertise beyond mobile development by learning:
-
-- **Backend Engineering:** Python, FastAPI, PostgreSQL, REST API design, and authentication.
-- **Software Engineering:** Backend architecture, application security, testing, and deployment.
-- **Applied AI:** LLM integrations, RAG, and AI-powered application features.
-
-My goal is to build complete software solutions that combine modern mobile development, reliable backend systems, and practical AI capabilities.
+- B.Sc. Information Technology, University of Science and Technology (2025)
+- Elected class representative for ~45 students; organized a field visit to Jisr and ran two student events with 500+ attendees combined.
 
 ---
 
