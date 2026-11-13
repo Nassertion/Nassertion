@@ -1,47 +1,52 @@
-# Hi there, I'm Nasser Salem AL-Mashgari 👋
+# Hi, I'm Nasser Salem Al-Mashgari 👋
 
-I'm a **Flutter Mobile Application Developer** dedicated to building high-quality, production-grade mobile applications. I specialize in writing clean, scalable, and maintainable code, with hands-on experience managing complex codebases, implementing state management solutions, and translating modern UI/UX designs into responsive apps.
+**Flutter Developer | Mobile Software Engineer**
 
----
+I'm a software developer specializing in Flutter, with hands-on experience building and maintaining mobile applications, particularly in the automotive industry.
 
-### 🚀 What I Do Best
+My focus is on designing maintainable application architectures, managing complex application state, integrating REST APIs, and writing reliable, testable code.
 
-* **Architecture First:** Strong advocate for **Clean Architecture** and **Feature-First (Feature-Based)** structures to ensure scalability and long-term maintainability.
-* **State Management:** Strong experience with **Riverpod** for predictable state management and testable application logic.
-* **Problem Solving:** Passionate about optimizing legacy codebases, resolving architectural bottlenecks, and ensuring smooth API integrations.
+I'm also expanding my software engineering skills into backend development and applied AI.
 
----
+## 🛠️ Tech Stack
 
-### 🛠️ Technical Toolbox
+| Category | Technologies |
+|---|---|
+| **Mobile Development** | Flutter, Dart, Responsive UI, RTL Support |
+| **Architecture & State** | Riverpod, Clean Architecture, Feature-First Architecture |
+| **Networking & Integration** | REST APIs, Dio, Authentication, OTP |
+| **Testing & Tools** | Unit Testing, Git, GitHub, Postman |
+| **Currently Learning** | Python, FastAPI, PostgreSQL |
 
-| Category                            | Technologies & Tools                                                           |
-| :---------------------------------- | :----------------------------------------------------------------------------- |
-| **Frontend & Frameworks**           | `Flutter` `Dart` `Responsive Design` `Figma to Code`                           |
-| **State Management & Architecture** | `Riverpod` `MVVM` `Clean Architecture ` `Feature-Based Architecture` |
-| **Backend & Integration**           | `REST APIs (Dio)` `Firebase` `Payment Gateways` `OTP Services` `Postman`       |
-| **Development & Testing**           | `Git & GitHub` `GitHub Actions (CI/CD)` `Unit Testing`                         |
+## 💼 What I've Worked On
 
----
+### 🚗 Mawjood — Automotive Services Platform
+Flutter Developer
 
-### 💼 Professional Experience
+- Developed and maintained mobile application features for an automotive services platform.
+- Worked on authentication flows, REST API integrations, and application state management.
+- Refactored existing features to improve code organization and maintainability.
+- Built and improved interfaces for different application workflows.
 
-* **Mawjood (موجود):** Remote Flutter Developer maintaining and scaling an automotive platform. Focused on secure payment integrations, OTP authentication migration, and legacy UI/UX optimization.
-* **Qitai (قطعي):** Architecting an automotive e-commerce app from scratch using Riverpod and Clean Architecture, preparing infrastructure for maps, push notifications, and payment gateways.
+### 🛒 Qitai — Automotive Spare Parts E-Commerce
+Flutter Developer
 
----
+- Building a feature-based Flutter application using Riverpod and Clean Architecture.
+- Implementing vehicle-based product filtering, search, pagination, and authentication.
+- Developing local cart functionality with persistent storage.
+- Writing automated tests for application logic, including asynchronous race conditions.
+- Building reusable, responsive RTL interfaces.
 
-### 📈 Soft Skills & Core Competencies
+## 🎯 What I Focus On
 
-* Task Prioritization & Attention to Detail
-* Continuous Learning & Problem Solving
-* Effective Communication & Teamwork
-* Leadership (Served as University Class Representative)
+- Clean, maintainable Flutter architecture
+- Reliable state management and asynchronous operations
+- API integrations and application performance
+- Automated testing and code quality
+- Continuous growth in software engineering
 
----
-
-### 📬 Connect With Me
+## 📬 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasser-almashgari-494136351)
- 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nasserforwork2@gmail.com)
 
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasserforwork2@gmail.com)
