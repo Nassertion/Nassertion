@@ -69,3 +69,4 @@ Includes tests for async race conditions in search and pagination.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nasser-almashgari-494136351)
 
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasserforwork2@gmail.com)
+
