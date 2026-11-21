@@ -4,7 +4,7 @@
 
 I'm a Flutter developer focused on building mobile applications for the automotive and e-commerce industries. I took over and extended **Mawjood**, a live automotive services platform connecting customers with workshops, and I'm currently building **Qitai**, a spare-parts e-commerce app where users find products that fit their vehicles, as the sole Flutter developer.
 
-I care most about the challenges that come with real-world apps: async race conditions, pagination, authentication flows, and Arabic/RTL layouts that actually hold up. I'm also expanding my skills in backend development (Python, FastAPI, PostgreSQL) to better understand the entire system, from the user interface to the database.
+I care most about the challenges that come with real-world apps: async race conditions, pagination, authentication flows, and Arabic/RTL layouts that actually hold up. I'm also expanding my skills in backend development (Python, FastAPI, PostgreSQL) to better understand the entire system, from the user interface to the database. 
 
 ---
 
